@@ -1,0 +1,11 @@
+<html>
+    <head>
+       <meta name="keywords" content="PC,通販,販売" charset="UTF-8">
+       <title>CSS学習中</title>
+       <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div>TECH I.S.</div>
+        <div>箱をヨコに並べるよ</div>
+    </body>
+</html>
